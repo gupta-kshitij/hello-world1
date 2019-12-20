@@ -1,2 +1,6 @@
 story.txt 
-this is staging QA Updatec Code
+
+
+
+This is master code
+this is staging QA Updated Code
