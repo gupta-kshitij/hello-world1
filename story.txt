@@ -1,6 +1,1 @@
-story.txt 
-
-
-
-This is master code
-this is staging QA Updated Code
+this is master branch code
